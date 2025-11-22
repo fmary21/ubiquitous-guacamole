@@ -1,4 +1,4 @@
-# 📘 README: BrightLearn BigQuery Practical Exercise
+# 📘 BrightLearn BigQuery Practical Exercise
 
 ## 🧠 Overview
 This practical Excercise builds foundational and intermediate SQL skills using Google BigQuery.
