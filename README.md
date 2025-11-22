@@ -45,5 +45,3 @@ By completing this exercise,  L learned to :
 4. Reflect on how each SQL concept applies to real-world analytics.
 
 
-
-Would you like me to help format this into a Canva slide or Google Doc for your learners?
